@@ -33,5 +33,5 @@ Now `notebook.ipynb` is ready to execute.
 
 ## Links
 * [Accompanying blog post](https://www.pacifis.org/rtg3/)
-* [Kaggle notebook](https://www.kaggle.com/carlosgdcj/eda-on-yu-gi-oh/)
+* [Kaggle notebook](https://www.kaggle.com/code/carlosgdcj/eda-on-yu-gi-oh)
 * [Kaggle dataset](https://www.kaggle.com/datasets/ioexception/yugioh-cards)
