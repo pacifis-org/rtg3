@@ -32,6 +32,6 @@ Now `notebook.ipynb` is ready to execute.
 ![cards by attribute](img/cards_by_attr.png "Cards by attribute")
 
 ## Links
-* [Accompanyng blog post](https://www.pacifis.org/rtg3/)
+* [Accompanying blog post](https://www.pacifis.org/rtg3/)
 * [Kaggle notebook](https://www.kaggle.com/carlosgdcj/eda-on-yu-gi-oh/)
 * [Kaggle dataset](https://www.kaggle.com/datasets/ioexception/yugioh-cards)
